@@ -12,6 +12,7 @@ I turn business questions into clear, evidence-based answers, from gathering req
 | Project | What it shows | Tools |
 |---|---|---|
 | [Online Retail Sales Analytics](https://github.com/ankitdwivedi2001/online-retail-sales-analytics) | 541,909 rows cleaned and analysed; found one customer driving 98% of Netherlands revenue | Excel · MySQL · Power BI |
+| [Football Sponsorship Trends Analysis](https://github.com/ankitdwivedi2001/football-sponsorship-trends-analysis) | 800 sponsorship deals analysed; weighted sum model ranked 22 categories to recommend a new partner | Excel · Google Sheets · WSM |
 | [HR Attrition Insight Dashboard](https://github.com/ankitdwivedi2001/hr-attrition-insight-dashboard) | Requirements-led analysis of 1,470 employees; 36.6% first-year attrition ([live dashboard](https://datastudio.google.com/reporting/4b933108-fc2b-4722-9ed6-5c84993db1d1)) | BRD/FRD · MySQL · Looker Studio |
 | [Payment Methods & Financial Behaviour](https://github.com/ankitdwivedi2001/payment-methods-and-financial-behavior) | MSc dissertation: 162-respondent UK/India survey with mediation analysis | R |
 | [Financial Fraud Detection](https://github.com/ankitdwivedi2001/financial-fraud-detection) | Caught 81 of 98 fraud cases with 17 false alarms in 56,864 transactions | Python · SMOTE · Random Forest |
