@@ -1,6 +1,6 @@
 # Hi, I'm Ankit Dwivedi 👋
 
-**Business Analyst / Data Analyst** · Leeds, UK
+**Business Analyst / Data Analyst** · Leeds, UK<br>
 MSc Business Analytics and Decision Sciences, University of Leeds (Merit)
 
 I turn business questions into clear, evidence-based answers, from gathering requirements (BRD/FRD, user stories, UAT) to cleaning data, running the analysis and presenting the findings.
